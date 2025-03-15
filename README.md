@@ -11,7 +11,7 @@
 按照步骤部署一定可以正常跑起来的  
 不懂的可以联系  
 
-[telegram联系](https://t.me/seven56678)  
+[telegram联系](https://t.me/sy89899)  
 
 
 ## 简单展示
